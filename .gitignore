@@ -1,0 +1,23 @@
+
+# Vivado temporary files
+.Xil/
+*.cache/
+*.hw/
+*.sim/
+
+# Generated IP files
+project_1.ip_user_files/
+
+# Vivado logs and journals
+*.jou
+*.log
+*.backup.jou
+*.backup.log
+
+# Vivado generated runs
+*.runs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
